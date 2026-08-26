@@ -2,7 +2,7 @@
   <img src="https://github.com/svallev.png" alt="Portrait of Salvador Valle Vargas" width="160" height="160">
 </p>
 
-<h1 align="center">Salvador Valle Vargas</h1>
+<h1 align="center">Salvador Valle Vargas.</h1>
 
 <p align="center">
   <strong>Product &amp; UX Design Director</strong><br>
@@ -10,10 +10,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/salvadorvalle/">LinkedIn</a>
-  &nbsp;|&nbsp;
-  <a href="https://linktr.ee/salvadorvalle">Linktree</a>
+  <a href="https://www.linkedin.com/in/salvadorvalle/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  </a>
+  <a href="https://linktr.ee/salvadorvalle">
+    <img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Explore Linktree">
+  </a>
 </p>
+
+<p align="center">Product strategy &middot; Design leadership &middot; Research &middot; Emerging technology</p>
 
 I have spent three decades learning, sharing, investigating, playing, and occasionally rolling with the punches. My work sits where product strategy, design leadership, user research, and emerging technology meet.
 
