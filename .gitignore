@@ -1,0 +1,5 @@
+# Local AI agent configuration and installed skills.
+.agents/
+.claude/
+skills-lock.json
+agents.md
