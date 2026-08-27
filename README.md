@@ -56,7 +56,6 @@ I care about building the conditions for good decisions: teams with a clear purp
   <img src="https://img.shields.io/badge/Alcampo-E30613?style=for-the-badge" alt="Alcampo">
   <img src="https://img.shields.io/badge/KIA-05141F?style=for-the-badge" alt="KIA">
   <img src="https://img.shields.io/badge/Aldeas_Infantiles-E4202C?style=for-the-badge" alt="Aldeas Infantiles SOS">
-  <img src="https://img.shields.io/badge/Airtel-E60000?style=for-the-badge" alt="Airtel">
   <img src="https://img.shields.io/badge/Bosch_Car_Service-EA0016?style=for-the-badge" alt="Bosch Car Service">
 </p>
 
