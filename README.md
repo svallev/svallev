@@ -21,7 +21,9 @@
 
 <p align="center">Product strategy &middot; Design leadership &middot; Research &middot; Emerging technology</p>
 
-I have spent three decades learning, sharing, investigating, playing, and occasionally rolling with the punches. My work sits where product strategy, design leadership, user research, and emerging technology meet.
+As you can imagine, I’m Salva.
+Product and UX Design Director at Harbiz, Frog, Hamon, Isobar, BBVA,...
+Based (today) in a small town close to the mountains in Spain.
 
 I care about building the conditions for good decisions: teams with a clear purpose, research that changes direction, and products that make a meaningful difference to the people using them. New tools matter when they help us think better, not simply move faster.
 
