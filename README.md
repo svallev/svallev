@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/svallev.png" alt="Portrait of Salvador Valle Vargas" width="160" height="160">
+  <img src="SVV_speaker_01.webp" alt="Portrait of Salvador Valle Vargas" >
 </p>
 
-<h1 align="center">Salvador Valle Vargas.</h1>
+<h1 align="center">Salvador Valle Vargas</h1>
 
 <p align="center">
   <strong>Product &amp; UX Design Director</strong><br>
