@@ -32,6 +32,34 @@ I care about building the conditions for good decisions: teams with a clear purp
 - **Exploring AI and new interaction models** with practical intent, from immersive experiences to voice, gesture, and intelligent tools.
 - **Teaching, facilitating, and sharing** ideas that help people see their work from a different angle.
 
+## Selected Clients
+
+<p>
+  <img src="https://img.shields.io/badge/Inditex-000000?style=for-the-badge" alt="Inditex">
+  <img src="https://img.shields.io/badge/BBVA-072146?style=for-the-badge" alt="BBVA">
+  <img src="https://img.shields.io/badge/Telef%C3%B3nica-019DF4?style=for-the-badge" alt="Telefónica">
+  <img src="https://img.shields.io/badge/Ferrovial-004B87?style=for-the-badge" alt="Ferrovial">
+  <img src="https://img.shields.io/badge/Vodafone-E60000?style=for-the-badge" alt="Vodafone">
+  <img src="https://img.shields.io/badge/Defensor_del_Pueblo-8B1E3F?style=for-the-badge" alt="Oficina del Defensor del Pueblo">
+  <img src="https://img.shields.io/badge/Coca--Cola-F40009?style=for-the-badge" alt="Coca-Cola">
+  <img src="https://img.shields.io/badge/Repsol-003A70?style=for-the-badge" alt="Repsol">
+  <img src="https://img.shields.io/badge/Ibercaja-00A5E6?style=for-the-badge" alt="Ibercaja">
+  <img src="https://img.shields.io/badge/Volvo-003057?style=for-the-badge" alt="Volvo">
+  <img src="https://img.shields.io/badge/Lafarge-006EB6?style=for-the-badge" alt="Lafarge">
+  <img src="https://img.shields.io/badge/eBay-E53238?style=for-the-badge" alt="eBay">
+  <img src="https://img.shields.io/badge/TISSOT-000000?style=for-the-badge" alt="TISSOT">
+  <img src="https://img.shields.io/badge/Hoteles_Hesperia-5B7D2B?style=for-the-badge" alt="Hoteles Hesperia">
+  <img src="https://img.shields.io/badge/Maybelline_New_York-000000?style=for-the-badge" alt="Maybelline New York">
+  <img src="https://img.shields.io/badge/Ogilvy-E1261C?style=for-the-badge" alt="Ogilvy">
+  <img src="https://img.shields.io/badge/El_Corte_Ingl%C3%A9s-008C45?style=for-the-badge" alt="El Corte Inglés">
+  <img src="https://img.shields.io/badge/RSI-E30613?style=for-the-badge" alt="RSI">
+  <img src="https://img.shields.io/badge/Alcampo-E30613?style=for-the-badge" alt="Alcampo">
+  <img src="https://img.shields.io/badge/KIA-05141F?style=for-the-badge" alt="KIA">
+  <img src="https://img.shields.io/badge/Aldeas_Infantiles-E4202C?style=for-the-badge" alt="Aldeas Infantiles SOS">
+  <img src="https://img.shields.io/badge/Airtel-E60000?style=for-the-badge" alt="Airtel">
+  <img src="https://img.shields.io/badge/Bosch_Car_Service-EA0016?style=for-the-badge" alt="Bosch Car Service">
+</p>
+
 ## A Few Chapters So Far
 
 | When | Role | Focus |
