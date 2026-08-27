@@ -13,6 +13,7 @@
   <a href="https://www.linkedin.com/in/salvadorvalle/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
   </a>
+   | 
   <a href="https://linktr.ee/salvadorvalle">
     <img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Explore Linktree">
   </a>
