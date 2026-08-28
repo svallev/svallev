@@ -75,10 +75,11 @@ Earlier chapters include creative direction, UX consulting, digital product work
 
 ## Selected Impact
 
-> **ZEUS. Designing a new way to work**: Add a concise example of a product or service outcome, including the problem, your leadership contribution, and a measurable result.
+> **ZEUS. Designing a new way to work**: Zeus is just the tip of the iceberg. An AI-ready Design System that culminates the company’s cultural process, enabling design and product methodology to drive a complete transformation.
  <img src="Zeus.png" alt="Zeus Design System" >
 
 > **Redifining the relation with the citizenship**: Add a concise example of how research, a design system, or a new process changed a team or product decision.
+ <img src="ombudsman.png" alt="Spanish ombudsman Projecto Miro Board" >
 
 > **To be completed**: Add a concise example of team growth, capability building, or cross-functional influence.
 
