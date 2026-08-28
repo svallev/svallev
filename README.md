@@ -2,7 +2,7 @@
   <img src="SVV_speaker_01.webp" alt="Portrait of Salvador Valle Vargas" >
 </p>
 
-<h1 align="center">Salvador Valle Vargas</h1>
+<h1 align="center" >— Salvador Valle Vargas —</h1>
 
 <p align="center">
   <strong>Product &amp; UX Design Director</strong><br>
@@ -75,20 +75,21 @@ Earlier chapters include creative direction, UX consulting, digital product work
 
 ## Selected Impact
 
-> **ZEUS. Designing a new way to work**: Zeus is just the tip of the iceberg. An AI-ready Design System that culminates the company’s cultural process, enabling design and product methodology to drive a complete transformation.
+> **◉ ZEUS. Designing a new way to work**: Zeus is just the tip of the iceberg. An AI-ready Design System that culminates the company’s cultural process, enabling design and product methodology to drive a complete transformation.
  <img src="Zeus.png" alt="Zeus Design System" >
 
-> **Redifining the relation with the citizenship**: Add a concise example of how research, a design system, or a new process changed a team or product decision.
+> **◉ Redifining the relation with the citizenship**: Add a concise example of how research, a design system, or a new process changed a team or product decision.
  <img src="ombudsman.png" alt="Spanish ombudsman Projecto Miro Board" >
 
-> **To be completed**: Add a concise example of team growth, capability building, or cross-functional influence.
+> **ALMA. Assets & Liability Management with Soul**: The interface and product you want to use when you need to work with millions of records in your database.
+ <img src="alma.webp" alt="ALMA Screenshots" >
 
 ## Talks & Writing
 
 - [Please make me think, a little. LaProductConf 2024](https://youtu.be/-X1gULpe9Ts?si=WoKvJs1xbrojhXG9)
 - [Interfaz cero: El futuro de la interacción. LaProductConf 2025](https://youtu.be/Q2Kxqw2eS1s?si=BY3WjdPoDvYr56kn).
 - [The ROI of Design - roundtable, LaProductConf 2024](https://youtu.be/Ab3tSo-YVcA?si=ZuvkbmNxp6BA8TUV)
-- [The current state of the UX and Product Design job market in Spain.](https://youtu.be/GsrW23Cm67I?si=mKU7sgo0gxdEi_J4)
+- [The current state of the UX and Product Design job market in Spain.]()
 - [Experience Fighters talk on VR and the metaverse](https://linktr.ee/salvadorvalle)
 - [Diseña mundos, diseñarás mejor](https://medium.com/isobar-spain/dise%C3%B1a-mundos-dise%C3%B1ar%C3%A1s-mejor-7a55b4ce352f)
 - [Usability was born to save your life. UX, to help you enjoy it](https://medium.com/isobar-spain/la-usabilidad-naci%C3%B3-para-salvar-tu-vida-el-ux-para-que-la-disfrutes-c5a077f30ffa)
