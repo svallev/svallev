@@ -85,13 +85,15 @@ Earlier chapters include creative direction, UX consulting, digital product work
 
 ## Talks & Writing
 
-- [Interfaz cero: El futuro de la interacción](https://youtu.be/Q2Kxqw2eS1s?si=BY3WjdPoDvYr56kn), LaProductConf 2024.
-- [The ROI of Design roundtable, LaProductConf 2024](https://linktr.ee/salvadorvalle).
-- [Experience Fighters talk on VR and the metaverse](https://linktr.ee/salvadorvalle).
-- [Diseña mundos, diseñarás mejor](https://medium.com/isobar-spain/dise%C3%B1a-mundos-dise%C3%B1ar%C3%A1s-mejor-7a55b4ce352f), on design beyond the familiar.
-- [Usability was born to save your life. UX, to help you enjoy it](https://medium.com/isobar-spain/la-usabilidad-naci%C3%B3-para-salvar-tu-vida-el-ux-para-que-la-disfrutes-c5a077f30ffa).
+- [Please make me think, a little. LaProductConf 2024](https://youtu.be/-X1gULpe9Ts?si=WoKvJs1xbrojhXG9)
+- [Interfaz cero: El futuro de la interacción. LaProductConf 2025](https://youtu.be/Q2Kxqw2eS1s?si=BY3WjdPoDvYr56kn).
+- [The ROI of Design - roundtable, LaProductConf 2024](https://youtu.be/Ab3tSo-YVcA?si=ZuvkbmNxp6BA8TUV)
+- [The current state of the UX and Product Design job market in Spain.](https://youtu.be/GsrW23Cm67I?si=mKU7sgo0gxdEi_J4)
+- [Experience Fighters talk on VR and the metaverse](https://linktr.ee/salvadorvalle)
+- [Diseña mundos, diseñarás mejor](https://medium.com/isobar-spain/dise%C3%B1a-mundos-dise%C3%B1ar%C3%A1s-mejor-7a55b4ce352f)
+- [Usability was born to save your life. UX, to help you enjoy it](https://medium.com/isobar-spain/la-usabilidad-naci%C3%B3-para-salvar-tu-vida-el-ux-para-que-la-disfrutes-c5a077f30ffa)
 - [Visual Thinking for Muggles: Getting started](https://www.bbva.com/es/la-iniciacion-en-visual-thinking-para-muggles/).
-- [More talks, articles, and publications](https://linktr.ee/salvadorvalle).
+- [More talks, articles, and publications](https://linktr.ee/salvadorvalle)
 
 ## Exploring in Public
 
