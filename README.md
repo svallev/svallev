@@ -78,7 +78,7 @@ Earlier chapters include creative direction, UX consulting, digital product work
 > **◉ ZEUS. Designing a new way to work**: Zeus is just the tip of the iceberg. An AI-ready Design System that culminates the company’s cultural process, enabling design and product methodology to drive a complete transformation.
  <img src="Zeus.png" alt="Zeus Design System" >
 
-> **◉ Redifining the relation with the citizenship**: Add a concise example of how research, a design system, or a new process changed a team or product decision.
+> **◉ Redifining the relation with the citizenship**: Together with the Ombudsman’s Office, we defined what the institution’s new relationship model with citizens would be. A turning point for a public institution that chose to step forward and recognized that relationships and work processes can be designed too..
  <img src="ombudsman.png" alt="Spanish ombudsman Projecto Miro Board" >
 
 > **ALMA. Assets & Liability Management with Soul**: The interface and product you want to use when you need to work with millions of records in your database.
@@ -99,7 +99,7 @@ Earlier chapters include creative direction, UX consulting, digital product work
 ## Exploring in Public
 
 I am currently learning through hands-on work with AI-assisted development, modern web technologies, and emerging design methods. I am interested in how these tools reshape the way design and product teams collaborate, make decisions, and build.
-
-> **To be completed**: Add selected repositories or experiments here, each with a short note on the question it explores and what you learned.
+<!--
+> **To be completed**: Add selected repositories or experiments here, each with a short note on the question it explores and what you learned. -->
 
 If you are thinking about product, design leadership, AI, or the future of interaction, [let's connect on LinkedIn](https://www.linkedin.com/in/salvadorvalle/).
