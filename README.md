@@ -84,6 +84,9 @@ Earlier chapters include creative direction, UX consulting, digital product work
 > **ALMA. Assets & Liability Management with Soul**: The interface and product you want to use when you need to work with millions of records in your database.
  <img src="alma.webp" alt="ALMA Screenshots" >
 
+> **And of coruse. More than a hundred projects**: Dozens of projects, dozens of clients, and I have to say I’ve always been fortunate to learn something from every single one of them.
+ <img src="projects_examples.webp" alt="Salvador Valle Projects" >
+
 ## Talks & Writing
 
 - [Please make me think, a little. LaProductConf 2024](https://youtu.be/-X1gULpe9Ts?si=WoKvJs1xbrojhXG9)
