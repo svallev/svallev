@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://salvadorvalle.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-F0EAD6?style=for-the-badge&logo=vercel&logoColor=000000" alt="Visit Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio">
   </a>
    | 
   <a href="https://www.linkedin.com/in/salvadorvalle/">
