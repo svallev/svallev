@@ -10,13 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://salvadorvalle.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio">
-  </a>
-   | 
-  <a href="https://www.linkedin.com/in/salvadorvalle/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
-  </a>
+  <a href="https://salvadorvalle.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/salvadorvalle/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
 </p>
 
 <p align="center">Product strategy &middot; Design leadership &middot; Research &middot; Emerging technology</p>
@@ -52,7 +48,11 @@ I care about building the conditions for good decisions: teams with a clear purp
   <img src="https://img.shields.io/badge/TISSOT-000000?style=for-the-badge" alt="TISSOT">
   <img src="https://img.shields.io/badge/Hoteles_Hesperia-5B7D2B?style=for-the-badge" alt="Hoteles Hesperia">
   <img src="https://img.shields.io/badge/Maybelline_New_York-000000?style=for-the-badge" alt="Maybelline New York">
-  <img src="https://img.shields.io/badge/Ogilvy-E1261C?style=for-the-badge" alt="Ogilvy">
+  <img src="https://img.shields.io/badge/Iberia-00539F?style=for-the-badge" alt="Iberia">
+  <img src="https://img.shields.io/badge/L%27Or%C3%A9al-000000?style=for-the-badge" alt="L'Oréal">
+  <img src="https://img.shields.io/badge/Generali-0072C6?style=for-the-badge" alt="Generali">
+  <img src="https://img.shields.io/badge/Santander-EC0000?style=for-the-badge" alt="Santander">
+  <img src="https://img.shields.io/badge/CBRE-00518C?style=for-the-badge" alt="CBRE">
   <img src="https://img.shields.io/badge/El_Corte_Ingl%C3%A9s-008C45?style=for-the-badge" alt="El Corte Inglés">
   <img src="https://img.shields.io/badge/RSI-E30613?style=for-the-badge" alt="RSI">
   <img src="https://img.shields.io/badge/Alcampo-E30613?style=for-the-badge" alt="Alcampo">
